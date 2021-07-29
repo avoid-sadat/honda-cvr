@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-infoes{
+    background: #264653;
+}
+.text-header{
+    color: #E0E0E0;
+}
+.img-filter {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+  .ratings i {
+    color: blue
+}
+.bg-purchase{
+background: #E76F51;
+width: 168px;
+height: 44px;
+}
+.title{
+    color: #E76F51;
+}
